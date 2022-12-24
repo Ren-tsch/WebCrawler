@@ -9,7 +9,7 @@ namespace WebCrawler
         static void Main(string[] args)
         
         {
-            //Abfrage von Webseiten-URL
+            //Eingabe von Webseiten-URL
             Console.WriteLine("URL eingeben. Bsp. https://www.google.com");
             string url = Console.ReadLine();
 
